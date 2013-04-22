@@ -1,0 +1,10 @@
+profile/
+|   -   update  // POST
+|   -   remove  // GET
+
+connections/
+|   -   add     // POST
+|   -   get_all // GET
+|   -   remove  // GET
+|   -
+
